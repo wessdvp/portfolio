@@ -1,18 +1,18 @@
 @font-face {
     font-family: "Adelphe Floreal";
-    src: url(/adelphe/ttf/Adelphe-FlorealBold.ttf);
+    src: url(./adelphe/ttf/Adelphe-FlorealBold.ttf);
     font-weight: bold; /* Specify bold weight */
 }
 
 @font-face {
     font-family: "Adelphe Floreal";
-    src: url(/adelphe/ttf/Adelphe-FlorealRegular.ttf);
+    src: url(./adelphe/ttf/Adelphe-FlorealRegular.ttf);
     font-weight: normal; /* Specify normal weight */
 }
 
 @font-face {
     font-family: "Adelphe Floreal";
-    src: url(/adelphe/ttf/Adelphe-FlorealSemiBold.ttf);
+    src: url(./adelphe/ttf/Adelphe-FlorealSemiBold.ttf);
     font-weight: 600; /* Specify semi-bold weight */
 }
 
@@ -23,9 +23,9 @@
 
 @font-face {
     font-family: "Adelphe Germinal";
-    src: url(/adelphe/ttf/Adelphe-GerminalBold.ttf),
-    url(/adelphe/ttf/Adelphe-GerminalRegular.ttf),
-    url(/adelphe/ttf/Adelphe-GerminalSemiBold.ttf);
+    src: url(./adelphe/ttf/Adelphe-GerminalBold.ttf),
+    url(./adelphe/ttf/Adelphe-GerminalRegular.ttf),
+    url(./adelphe/ttf/Adelphe-GerminalSemiBold.ttf);
 }
 
 body {
